@@ -3,4 +3,7 @@ b=int(input("Enter the second no:"))
 z=a+b
 print("a+b=",z)
 output:
-a+b=4
+Enter the first no:
+Enter the second no:
+  
+a+b=
